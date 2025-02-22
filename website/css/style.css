@@ -1,0 +1,27 @@
+body {
+  background-color: powderblue ;
+
+.btn-primary {
+    background-color: powderblue ;
+}
+.jumbotron {
+  background-color: rgb(7, 61, 61);
+}
+.display-4 {
+  color: white ;
+}
+.lead {
+  color: white ;
+}
+.lead2 {
+  color: white ;
+}
+.row {
+    display: flex;
+}
+.bg-mariam{
+  background-color: rgb(7, 61, 61);
+}
+.h2 {
+  font-size: 5em;
+}
